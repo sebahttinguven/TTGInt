@@ -1,16 +1,11 @@
+package questionOneAndTwo;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class TTGInternational {
+public class TTGQuestionOneAndTwo {
 
-	public static void main(String[] args) {
-
-		findMissing();
-
-		rotate(new int[] { 1, 2, 3, 4, 5, 6 }, 1);
-	}
-
-	public static void findMissing() {
+	public void findMissing() {
 
 		List<Integer> list1 = new ArrayList<>();
 		list1.add(4);
@@ -39,7 +34,7 @@ public class TTGInternational {
 		System.out.println("Result=" + listTemp);
 	}
 
-	public static void rotate(int[] list1, int index) {
+	public void rotate(int[] list1, int index) {
 
 		for (int i = 0; i < index; i++) {
 			int j, first;
