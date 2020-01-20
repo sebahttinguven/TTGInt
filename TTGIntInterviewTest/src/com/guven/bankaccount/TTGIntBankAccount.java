@@ -1,4 +1,4 @@
-package bankAccount;
+package com.guven.bankaccount;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -12,7 +12,7 @@ import java.util.TreeMap;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class TTGIntAccountQuest3 {
+public class TTGIntBankAccount {
 
 	private static final int VALUE = 0;
 

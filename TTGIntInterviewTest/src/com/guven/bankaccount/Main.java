@@ -1,4 +1,4 @@
-package bankAccount;
+package com.guven.bankaccount;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
        
-    	TTGIntAccountQuest3 account= new TTGIntAccountQuest3();
+    	TTGIntBankAccount account= new TTGIntBankAccount();
         List<String> satir =  account.dosyaOku();
         List<Map<String, Integer>> sonucMap =account.girisDegerleri(satir);
         account.sonuc(sonucMap);
