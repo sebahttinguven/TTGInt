@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/guven/hibernate/demo/CreateCoursesDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/CreateDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/CreateInstructorDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/DeleteCoursesDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/DeleteDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/DeleteIntructorDetailDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/EagerLazyDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/GetInstructorCoursesDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/GetIntructorDetailDemo.java=UTF-8
+encoding//src/com/guven/hibernate/demo/entity/InstructorDetail.java=UTF-8
