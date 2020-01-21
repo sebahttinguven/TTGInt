@@ -25,6 +25,7 @@
 
 		<form:form action="saveCustomer" modelAttribute="customer"
 			method="POST">
+<!-- 			update ederken gizli id lazım -->
 			<form:hidden path="id"/>
 	<table>
 				<tbody>
